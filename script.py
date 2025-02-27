@@ -1,2 +1,2 @@
 mon code python
-code add by me
+code add by me et modifié plus tard car erreurs presentes
